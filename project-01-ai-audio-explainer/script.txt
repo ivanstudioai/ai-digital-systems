@@ -1,25 +1,15 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2868
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c0\c1\c1;\cssrgb\c100000\c100000\c99985;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sa240\partightenfactor0
+Think of an AI system as a kind of machine-made decision maker. It’s a tool designed to notice patterns, learn from experience, and respond in ways that feel purposeful.
 
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-Think of an AI system as a kind of machine-made decision maker. It\'92s a tool designed to notice patterns, learn from experience, and respond in ways that feel purposeful.\
-\
-At its core, an AI system takes in information, processes it, and produces an output. The information might be words, images, sounds, numbers, or sensor readings. The output might be a recommendation, a prediction, a summary, or an action. What makes it different from traditional software is that it doesn\'92t rely only on fixed instructions written line by line. Instead, it learns from examples.\
-\
-Imagine teaching a child to recognize a cat. You don\'92t give a precise definition involving ear angles or fur length. You show many pictures and say, \'93This is a cat.\'94 Over time, patterns begin to form. AI systems learn in a similar way, by being exposed to large amounts of data and adjusting themselves to get better at a task.\
-\
-This learning happens through mathematical models that estimate relationships in the data. You don\'92t need to know the math to understand the idea. The system makes a guess, checks how wrong it was, and slightly adjusts itself. After many repetitions, its guesses improve. That\'92s learning in an AI system.\
-\
-It\'92s important to say what AI systems are not. They don\'92t understand the world the way humans do. They don\'92t have beliefs, intentions, or awareness. When an AI system sounds confident or creative, it\'92s drawing on patterns it has seen before, not personal experience or insight.\
-\
-AI systems are already woven into everyday life. They help filter spam, recommend music, translate languages, spot fraud, and assist doctors by highlighting things worth a closer look. In each case, the system supports human judgment rather than replacing it outright.\
-\
-So when people talk about AI, they\'92re usually talking about a set of tools that extend human abilities in narrow, specific ways. Powerful, yes. Sometimes surprising. But still tools, shaped by the data they learn from and the goals we set for them.\
-\
-Understanding that helps us stay curious without being mystified, and cautious without being afraid, as we decide how we want these systems to fit into our shared future.\
-}
+At its core, an AI system takes in information, processes it, and produces an output. The information might be words, images, sounds, numbers, or sensor readings. The output might be a recommendation, a prediction, a summary, or an action. What makes it different from traditional software is that it doesn’t rely only on fixed instructions written line by line. Instead, it learns from examples.
+
+Imagine teaching a child to recognize a cat. You don’t give a precise definition involving ear angles or fur length. You show many pictures and say, “This is a cat.” Over time, patterns begin to form. AI systems learn in a similar way, by being exposed to large amounts of data and adjusting themselves to get better at a task.
+
+This learning happens through mathematical models that estimate relationships in the data. You don’t need to know the math to understand the idea. The system makes a guess, checks how wrong it was, and slightly adjusts itself. After many repetitions, its guesses improve. That’s learning in an AI system.
+
+It’s important to say what AI systems are not. They don’t understand the world the way humans do. They don’t have beliefs, intentions, or awareness. When an AI system sounds confident or creative, it’s drawing on patterns it has seen before, not personal experience or insight.
+
+AI systems are already woven into everyday life. They help filter spam, recommend music, translate languages, spot fraud, and assist doctors by highlighting things worth a closer look. In each case, the system supports human judgment rather than replacing it outright.
+
+So when people talk about AI, they’re usually talking about a set of tools that extend human abilities in narrow, specific ways. Powerful, yes. Sometimes surprising. But still tools, shaped by the data they learn from and the goals we set for them.
+
+Understanding that helps us stay curious without being mystified, and cautious without being afraid, as we decide how we want these systems to fit into our shared future.
