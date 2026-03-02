@@ -1,0 +1,25 @@
+Tools
+- Slack for all internal communication
+- Drive for documentation
+
+Cadence
+- Project updates every Monday
+- Coffee + briefing Tuesday mornings
+
+Rules
+- No deployments on Fridays (hotfixes only)
+- Keep client updates short and weekly
+
+Expectations
+- Share decisions in Slack
+- Update status even if nothing changed
+- Raise issues early
+
+Ownership
+- AI-related work is still evolving
+- Ask Erica if unsure
+
+Avoid
+- Silent failures
+- Long client updates
+- Unannounced changes

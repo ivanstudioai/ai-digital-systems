@@ -1,0 +1,3 @@
+Most day-to-day work happens in Slack; internal communication, decisions, and quick updates should live there. Project statuses are updated every Monday, even if nothing has changed. Client communication is generally weekly and should focus on clarity and reassurance rather than detail. We avoid deploying on Fridays except for necessary fixes. Documentation lives in Drive and may be outdated—if you update something, let others know.
+
+There’s a weekly coffee and briefing on Tuesday mornings that’s technically optional but expected. Some areas (notably AI-related work) are still evolving and don’t have clear ownership yet. When something feels unclear or off, raise it early rather than letting it sit. If you’re unsure who to ask, Erica is a good starting point.
