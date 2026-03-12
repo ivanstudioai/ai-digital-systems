@@ -1,0 +1,81 @@
+MAPPING RULES
+
+This file defines deterministic rules mapping task types to
+recommended collaboration modes.
+
+Each task type may recommend a maximum of two collaboration modes.
+
+The purpose of these rules is to guide how humans and AI should
+structure their interaction for different types of work.
+
+---
+
+RULE 1
+
+IF task_type = Strategic
+
+THEN recommended_modes =
+
+* Challenger
+* Synthesizer
+
+Rationale:
+Strategic work benefits from questioning assumptions and organizing
+multiple ideas into coherent plans.
+
+---
+
+RULE 2
+
+IF task_type = Analytical
+
+THEN recommended_modes =
+
+* Synthesizer
+* Auditor
+
+Rationale:
+Analytical tasks require structuring complex information and verifying
+logical consistency.
+
+---
+
+RULE 3
+
+IF task_type = Generative
+
+THEN recommended_modes =
+
+* Co-Pilot
+* Auditor
+
+Rationale:
+Generative work benefits from AI assistance in producing drafts and
+from review to improve quality and coherence.
+
+---
+
+RULE 4
+
+IF task_type = Evaluative
+
+THEN recommended_modes =
+
+* Challenger
+* Auditor
+
+Rationale:
+Evaluative tasks require critical examination and structured judgment.
+
+---
+
+RULE 5
+
+IF task_type = Reduction
+
+THEN recommended_modes =
+
+* Reducer
+
+Rationale:
+Reduction tasks focus on compressing information into concise formats.

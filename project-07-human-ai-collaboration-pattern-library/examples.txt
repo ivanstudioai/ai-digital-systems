@@ -1,0 +1,175 @@
+EXAMPLES
+
+This file demonstrates how the Human–AI Collaboration Pattern Library
+can be applied to real-world knowledge work scenarios.
+
+Each example follows the collaboration blueprint format.
+
+---
+
+=== COLLABORATION BLUEPRINT ===
+
+Scenario:
+Startup Product Strategy
+
+Task Type:
+Strategic
+
+Recommended Modes:
+Challenger
+Synthesizer
+
+Human Role:
+Define the product vision, market context, and strategic goals.
+
+AI Role:
+Challenge assumptions about the market and synthesize possible
+strategic approaches.
+
+Interaction Structure:
+
+1. Human outlines product idea and target market.
+2. AI challenges assumptions and identifies risks.
+3. AI synthesizes alternative strategic options.
+4. Human evaluates options and refines direction.
+
+Risks:
+AI may produce plausible but unrealistic strategic suggestions.
+
+Limitations:
+AI does not have real market validation or operational constraints.
+
+---
+
+=== COLLABORATION BLUEPRINT ===
+
+Scenario:
+Technical Research Summary
+
+Task Type:
+Reduction
+
+Recommended Modes:
+Reducer
+
+Human Role:
+Provide the research papers or reports and specify the desired level
+of summarization.
+
+AI Role:
+Condense the material into a clear and structured summary.
+
+Interaction Structure:
+
+1. Human provides research material.
+2. AI extracts key concepts and findings.
+3. AI produces a concise summary.
+4. Human verifies accuracy and completeness.
+
+Risks:
+Important nuance may be lost during summarization.
+
+Limitations:
+AI may misinterpret specialized terminology.
+
+---
+
+=== COLLABORATION BLUEPRINT ===
+
+Scenario:
+Marketing Campaign Idea Generation
+
+Task Type:
+Generative
+
+Recommended Modes:
+Co-Pilot
+Auditor
+
+Human Role:
+Define campaign goals, audience, and constraints.
+
+AI Role:
+Generate creative campaign ideas and review them for clarity
+and effectiveness.
+
+Interaction Structure:
+
+1. Human defines campaign objective.
+2. AI generates multiple campaign ideas.
+3. Human selects promising concepts.
+4. AI reviews and refines selected ideas.
+
+Risks:
+AI may produce generic or repetitive ideas.
+
+Limitations:
+AI lacks deep understanding of brand identity or audience nuance.
+
+---
+
+=== COLLABORATION BLUEPRINT ===
+
+Scenario:
+Competitive Product Analysis
+
+Task Type:
+Analytical
+
+Recommended Modes:
+Synthesizer
+Auditor
+
+Human Role:
+Provide data on competitor products and define analysis goals.
+
+AI Role:
+Organize the information into structured comparisons and check
+for analytical consistency.
+
+Interaction Structure:
+
+1. Human provides product data.
+2. AI synthesizes comparisons between competitors.
+3. AI identifies patterns and insights.
+4. Human verifies conclusions and adjusts interpretation.
+
+Risks:
+AI may overgeneralize patterns from limited data.
+
+Limitations:
+AI cannot independently verify real-world product performance.
+
+---
+
+=== COLLABORATION BLUEPRINT ===
+
+Scenario:
+Design Proposal Review
+
+Task Type:
+Evaluative
+
+Recommended Modes:
+Challenger
+Auditor
+
+Human Role:
+Present the design proposal and evaluation criteria.
+
+AI Role:
+Critically examine the proposal and identify weaknesses or
+inconsistencies.
+
+Interaction Structure:
+
+1. Human presents design proposal.
+2. AI challenges assumptions and highlights potential issues.
+3. AI reviews logical consistency and completeness.
+4. Human decides which critiques are relevant.
+
+Risks:
+AI critiques may be overly theoretical.
+
+Limitations:
+AI lacks real stakeholder context.

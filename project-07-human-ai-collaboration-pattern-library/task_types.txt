@@ -1,0 +1,113 @@
+TASK TYPES
+
+This file defines common categories of knowledge work where human–AI
+collaboration can be structured.
+
+Task types are intentionally broad and stable. They represent recurring
+forms of work rather than specific tools or prompts.
+
+---
+
+TASK TYPE: Strategic
+
+Description:
+Work focused on direction, planning, and decision framing under uncertainty.
+
+Strategic tasks typically involve defining goals, exploring options,
+and reasoning about future outcomes.
+
+Typical Examples:
+
+* Product strategy
+* Business planning
+* Roadmap design
+* Market positioning
+* Project direction setting
+
+Primary Challenge:
+High ambiguity and incomplete information.
+
+---
+
+TASK TYPE: Analytical
+
+Description:
+Work focused on understanding systems, information, or problems through
+structured reasoning.
+
+Analytical tasks involve breaking down complexity, identifying patterns,
+and explaining relationships.
+
+Typical Examples:
+
+* Data interpretation
+* Research analysis
+* Root cause analysis
+* System investigation
+* Technical problem diagnosis
+
+Primary Challenge:
+Complexity and information overload.
+
+---
+
+TASK TYPE: Generative
+
+Description:
+Work focused on producing new ideas, drafts, or possibilities.
+
+Generative tasks emphasize exploration, variation, and creative output.
+
+Typical Examples:
+
+* Idea generation
+* Draft writing
+* Concept exploration
+* Brainstorming
+* Content creation
+
+Primary Challenge:
+Avoiding shallow or repetitive outputs.
+
+---
+
+TASK TYPE: Evaluative
+
+Description:
+Work focused on judging quality, comparing options, and identifying
+strengths and weaknesses.
+
+Evaluative tasks require criteria, critical thinking, and structured
+assessment.
+
+Typical Examples:
+
+* Reviewing proposals
+* Critiquing designs
+* Comparing alternatives
+* Quality assessment
+* Risk evaluation
+
+Primary Challenge:
+Bias, incomplete criteria, and inconsistent judgment.
+
+---
+
+TASK TYPE: Reduction
+
+Description:
+Work focused on simplifying, summarizing, or extracting key information
+from larger sources.
+
+Reduction tasks transform complexity into clarity.
+
+Typical Examples:
+
+* Summarizing documents
+* Extracting key insights
+* Creating executive summaries
+* Condensing research
+* Simplifying explanations
+
+Primary Challenge:
+Preserving meaning while reducing volume.

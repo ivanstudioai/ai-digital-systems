@@ -1,0 +1,93 @@
+LIMITATIONS
+
+This document outlines the current limitations and design constraints
+of the Human–AI Collaboration Pattern Library (v1).
+
+The goal of this file is to clarify the boundaries of the system and
+identify areas for potential future development.
+
+---
+
+SYSTEM SIMPLICITY
+
+Version 1 intentionally prioritizes simplicity.
+
+The framework uses a small number of task types and collaboration
+modes in order to remain understandable and easy to apply.
+
+As a result, the system may not cover all forms of knowledge work
+or specialized professional tasks.
+
+---
+
+DETERMINISTIC MAPPING
+
+The mapping between task types and collaboration modes is defined
+using fixed rule-based logic.
+
+This simplifies the system but also means that:
+
+* task classification is performed manually
+* the system cannot dynamically adapt to unusual cases
+* hybrid tasks may not fit perfectly into a single category
+
+Future versions could explore more flexible mapping approaches.
+
+---
+
+NO AUTOMATED IMPLEMENTATION
+
+This project is a specification framework rather than a software system.
+
+The library does not include:
+
+* automated task classification
+* orchestration tools
+* workflow automation
+* AI agent systems
+
+All usage is currently manual.
+
+---
+
+LIMITED CONTEXT AWARENESS
+
+The framework assumes that humans provide appropriate context
+and inputs to the AI system.
+
+The system does not include mechanisms for:
+
+* verifying information sources
+* maintaining long-term memory
+* incorporating real-world constraints
+* validating external data
+
+As a result, human oversight remains essential.
+
+---
+
+GENERALIZED COLLABORATION MODES
+
+The collaboration modes defined in this library represent
+general interaction patterns.
+
+In practice, real workflows may involve more nuanced or
+specialized collaboration structures.
+
+Organizations or teams may choose to adapt or extend these
+modes to fit their needs.
+
+---
+
+FUTURE EXTENSIBILITY
+
+The system could be extended in several ways, including:
+
+* additional task types
+* expanded collaboration mode libraries
+* richer mapping rules
+* workflow templates
+* implementation as a tool or software system
+
+However, such extensions should preserve the core design
+principles of simplicity, clarity, and separation of concerns.

@@ -1,0 +1,111 @@
+COLLABORATION MODES
+
+This file defines common patterns of interaction between humans and AI
+during knowledge work.
+
+A collaboration mode describes how the human and AI divide roles and
+how the interaction is structured.
+
+---
+
+MODE: Co-Pilot
+
+Description:
+The AI assists the human in producing work by generating drafts,
+suggestions, or variations while the human guides direction.
+
+Human Role:
+Direct the task, provide intent, review outputs, and refine results.
+
+AI Role:
+Generate drafts, expand ideas, and propose alternative approaches.
+
+Typical Use Cases:
+
+* Draft writing
+* Brainstorming ideas
+* Content creation
+* Exploring alternatives
+
+---
+
+MODE: Challenger
+
+Description:
+The AI challenges assumptions, identifies weaknesses, and provides
+critical perspectives on the human's thinking.
+
+Human Role:
+Present ideas, arguments, or plans for examination.
+
+AI Role:
+Question assumptions, highlight risks, and provide counterarguments.
+
+Typical Use Cases:
+
+* Strategic decisions
+* Argument testing
+* Risk analysis
+* Decision preparation
+
+---
+
+MODE: Synthesizer
+
+Description:
+The AI integrates multiple ideas, sources, or perspectives into
+coherent structures or explanations.
+
+Human Role:
+Provide materials, perspectives, or ideas to combine.
+
+AI Role:
+Organize information, connect concepts, and produce structured outputs.
+
+Typical Use Cases:
+
+* Research synthesis
+* Insight generation
+* Concept integration
+* Multi-source summaries
+
+---
+
+MODE: Reducer
+
+Description:
+The AI simplifies complex or large information into shorter,
+clearer formats while preserving key meaning.
+
+Human Role:
+Provide the source material and define the desired level of reduction.
+
+AI Role:
+Condense, summarize, and highlight key points.
+
+Typical Use Cases:
+
+* Document summaries
+* Executive briefs
+* Simplified explanations
+* Key insight extraction
+
+---
+
+MODE: Auditor
+
+Description:
+The AI reviews work for issues, inconsistencies, or weaknesses.
+
+Human Role:
+Produce the primary work and request review.
+
+AI Role:
+Check logic, clarity, and completeness.
+
+Typical Use Cases:
+
+* Draft review
+* Logic checking
+* Quality assurance
+* Consistency verification
